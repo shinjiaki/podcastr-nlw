@@ -19,7 +19,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/podcastr.git && cd podcastr
+$ git clone https://github.com/shinjiaki/podcastr-nlw.git && cd podcastr-nlw
 ```
 
 Follow the steps below
